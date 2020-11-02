@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there 👋
+
+- Currently working as a **Junior Flutter Developer**
+- I'm pursuing a CS degree at *AGH University of Science and Technology*
 
 <!--
 **kamilponiewierski/kamilponiewierski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
