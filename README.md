@@ -3,6 +3,8 @@
 - Currently working as a **Junior Flutter Developer**
 - I'm pursuing a CS degree at *AGH University of Science and Technology*
 
+[Basic webisite](https://github.com/kamilponiewierski/kamilponiewierski.github.io/blob/main/index.md)
+
 <!--
 **kamilponiewierski/kamilponiewierski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
